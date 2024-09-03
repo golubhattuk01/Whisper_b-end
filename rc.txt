@@ -4,3 +4,6 @@ whisper==1.0
 pydub==0.25.1
 torch==2.0.1  # Whisper requires PyTorch for inference
 python-dotenv==1.0.0
+uvicorn
+gunicorn
+
